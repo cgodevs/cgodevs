@@ -1,14 +1,6 @@
 ## ![Paper Mario Happy](https://cdn.emojidex.com/emoji/px32/Paper_Mario_Happy.png "Paper Mario Happy") It's a me! 
 
-I'm Caroline, a student back-end developer living in São Paulo, Brazil. 
-
-My main stacks and passions are:
-<ul>
-  <li>❤️ Java or JS object-oriented programming</li>
-  <li>🧡 Data Analytics and Automation with Python</li>
-  <li>💛 Scripting </li>  
-  <li>💙 Relational Databases</li>  
-</ul>
+I'm Caroline, a student back-end developer living in São Paulo, Brazil. My main stacks and passions are Java or JS object-oriented programming, Data Analytics and Automation with Python, Scripting and Relational Databases.
 
 🔭 I'm looking forward to join software development companies, as an intern or a Junior. My current goal is to take part in a team working on analysing, upgrading and maintaining enterprise systems, helping to create good and lasting solutions to customers or the company I'll join in. Solving problems, discovering new workarounds, improvements and positive results to production and to building a good career path. I’m currently working on growing my Java portfolio on Github, and building projects I'll present with pride.
 
@@ -30,6 +22,7 @@ My main stacks and passions are:
 ![Scripting](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=css3&color=blue)
 ![Scripting](https://img.shields.io/badge/Scripting-informational?style=plastic&logo=javaScript&color=yellow)
 ![Scripting](https://img.shields.io/badge/Website%20Responsiveness-informational?style=plastic&logo=javaScript&color=yellow)
+
 ![](https://img.shields.io/badge/Python-Data%20Analytics-informational?style=plastic&logo=python&color=blue)
 ![](https://img.shields.io/badge/Python-Flask-informational?style=plastic&logo=python&color=blue)
 ![](https://img.shields.io/badge/Oracle-SQL%20Developer-informational?style=plastic&logo=oracle&color=orange)
