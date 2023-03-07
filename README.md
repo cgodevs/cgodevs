@@ -30,13 +30,9 @@ My main stacks and passions are:
 ![Scripting](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=css3&color=blue)
 ![Scripting](https://img.shields.io/badge/Scripting-informational?style=plastic&logo=javaScript&color=yellow)
 ![Scripting](https://img.shields.io/badge/Website%20Responsiveness-informational?style=plastic&logo=javaScript&color=yellow)
-
 ![](https://img.shields.io/badge/Python-Data%20Analytics-informational?style=plastic&logo=python&color=blue)
 ![](https://img.shields.io/badge/Python-Flask-informational?style=plastic&logo=python&color=blue)
-![](https://img.shields.io/badge/Python-PyCharm-informational?style=plastic&logo=pycharm&color=blue)
-
 ![](https://img.shields.io/badge/Oracle-SQL%20Developer-informational?style=plastic&logo=oracle&color=orange)
-![](https://img.shields.io/badge/Oracle-Database-informational?style=plastic&logo=oracle&color=orange)
 ![](https://img.shields.io/badge/Oracle-MYSQL-informational?style=plastic&logo=oracle&color=orange)
 
 ![](https://img.shields.io/badge/Java-Spring%20Boot-informational?style=plastic&logo=oracle&color=570F14)
@@ -44,8 +40,6 @@ My main stacks and passions are:
 ![](https://img.shields.io/badge/Java-JSP-informational?style=plastic&logo=oracle&color=570F14)
 ![](https://img.shields.io/badge/Java-Maven-informational?style=plastic&logo=oracle&color=570F14)
 ![](https://img.shields.io/badge/Java-Servlets-informational?style=plastic&logo=oracle&color=570F14)
-![](https://img.shields.io/badge/Eclipse-informational?style=plastic&logo=eclipseide&color=gray)
-![](https://img.shields.io/badge/IntelliJ-informational?style=plastic&logo=intellijidea&color=gray)
 
 ![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&color=gray)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=plastic&logo=kubernetes&color=gray)
