@@ -2,7 +2,7 @@
 
 I'm Caroline, a student back-end developer living in São Paulo, Brazil. My main stacks and passions are Java or JS object-oriented programming, Data Analytics and Automation with Python, Scripting and Relational Databases.
 
-🔭 I'm looking forward to join software development companies, as an intern or a Junior. My current goal is to take part in a team working on analysing, upgrading and maintaining enterprise systems, helping to create good and lasting solutions to customers or the company I'll join in. Solving problems, discovering new workarounds, improvements and positive results to production and to building a good career path. I’m currently working on growing my Java portfolio on Github, and building projects I'll present with pride.
+🔭 I'm looking forward to join a software development company, either as an intern or a Junior. My current goal is to take part in a team working on analysing, upgrading and maintaining enterprise systems, helping to create good and lasting solutions to customers or the company I'll join in. Problem solving, technology discoveries, improvements and positive results to production are the way to build a good career path. I’m currently working on growing my portfolio on Github and building projects I'll present with pride.
 
 💡Professional experience in Data Analytics, Dashboards creation, scripting (ServiceNow and G Suite), documenting, efficiently reading databases and teaching. I won two academic prizes in 2022.
 
@@ -15,25 +15,21 @@ I'm Caroline, a student back-end developer living in São Paulo, Brazil. My main
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgodevs&layout=compact&theme=chartreuse-dark&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-### Skills
+### Skills and Tools
 
 
 ![Scripting](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=html5&color=red)
 ![Scripting](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=css3&color=blue)
 ![Scripting](https://img.shields.io/badge/Scripting-informational?style=plastic&logo=javaScript&color=yellow)
 ![Scripting](https://img.shields.io/badge/Website%20Responsiveness-informational?style=plastic&logo=javaScript&color=yellow)
-
-![](https://img.shields.io/badge/Python-Data%20Analytics-informational?style=plastic&logo=python&color=blue)
 ![](https://img.shields.io/badge/Python-Flask-informational?style=plastic&logo=python&color=blue)
 ![](https://img.shields.io/badge/Oracle-SQL%20Developer-informational?style=plastic&logo=oracle&color=orange)
 ![](https://img.shields.io/badge/Oracle-MYSQL-informational?style=plastic&logo=oracle&color=orange)
-
 ![](https://img.shields.io/badge/Java-Spring%20Boot-informational?style=plastic&logo=oracle&color=570F14)
 ![](https://img.shields.io/badge/Java-Hibernate-informational?style=plastic&logo=oracle&color=570F14)
 ![](https://img.shields.io/badge/Java-JSP-informational?style=plastic&logo=oracle&color=570F14)
 ![](https://img.shields.io/badge/Java-Maven-informational?style=plastic&logo=oracle&color=570F14)
 ![](https://img.shields.io/badge/Java-Servlets-informational?style=plastic&logo=oracle&color=570F14)
-
 ![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&color=gray)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=plastic&logo=kubernetes&color=gray)
 ![](https://img.shields.io/badge/Ansible-informational?style=plastic&logo=ansible&color=gray)
