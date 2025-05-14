@@ -1,12 +1,12 @@
-## ![Paper Mario Happy](https://cdn.emojidex.com/emoji/px32/Paper_Mario_Happy.png "Paper Mario Happy") It's a me! 
+## <img src="https://icons.iconarchive.com/icons/ph03nyx/super-mario/256/Paper-Mario-icon.png" alt="drawing" width="50"/> It's a me! 
+I'm Caroline, a Data Engineer and development enthusiast living in São Paulo, Brazil. My main stacks and passions are Python, Java or JS object-oriented programming and Cloud Services.
 
-I'm Caroline, a student back-end developer living in São Paulo, Brazil. My main stacks and passions are Java or JS object-oriented programming, Data Analytics and Automation with Python, Scripting and Relational Databases.
+🔭 My current goal is building social development oriented technological services. Also, problem solving, technology discoveries, improvements and positive results to production are the way to build a good career path. I’m currently working on growing my portfolio on Github and building projects I'll present with pride.
 
-🔭 I'm looking forward to join a software development company, either as an intern or a Junior. My current goal is to take part in a team working on analysing, upgrading and maintaining enterprise systems, helping to create good and lasting solutions to customers or the company I'll join in. Problem solving, technology discoveries, improvements and positive results to production are the way to build a good career path. I’m currently working on growing my portfolio on Github and building projects I'll present with pride.
+💡 Professional experience in Data Engineering, Analytics, Dashboards creation, scripting (ServiceNow and G Suite), documenting, efficiently reading databases and teaching. 
+I've been awarded two academic prizes in 2022, one in 2023 and a Hackathon related prize in 2024. [Check out my Linkedin](https://br.linkedin.com/in/carolinego) page! 
 
-💡Professional experience in Data Analytics, Dashboards creation, scripting (ServiceNow and G Suite), documenting, efficiently reading databases and teaching. I won two academic prizes in 2022.
-
-🌱 I’m currently learning about containers, Linux, Microsservices and Cloud Services and have been collecting badges.
+🌱 I’m currently learning about Microsservices and Cloud Services and have been collecting badges.
 
 🪅 In my spare time I often listen to music, go out to movies or restaurants and browse Tiktok.
 
